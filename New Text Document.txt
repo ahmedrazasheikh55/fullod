@@ -1,0 +1,17 @@
+font-family 
+font-size
+@font-face {
+font-family: 'ChunkFiveRegular';
+src: url('fonts/chunkfive.eot');}
+font-weight
+font-style
+text-transform
+text-decoration
+line-height
+letter-spacing, word-spacing
+text-align
+vertical-align   baseline sub super top text-top middle bottom  text-bottom
+text-indent
+text-shadow
+:first-letter, :first-line
+:link, :visited  :hover, :active, :focus

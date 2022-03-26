@@ -1,0 +1,15 @@
+min-width, max-width
+min-height, max-height
+overflow hidden,scroll
+border-width thin medium thick
+border-style solid a single solid line dotted a series of square dots hidden / none
+border-color
+padding
+margin
+display inline, block ,inline-block, none
+visibility hidden,visible
+border-image  stretch,repeat,round
+box-shadow  Horizontal offset, Vertical offset ,Blur distance ,Spread of shadow
+border-radius  -moz-border-radius: 10px; -webkit-border-radius: 10px;}
+border-radius
+

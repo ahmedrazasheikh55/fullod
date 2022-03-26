@@ -1,0 +1,7 @@
+list-style-type Unordered Lists,Ordered Lists
+list-style-image
+list-style-position ,outside,inside 
+list-style list-style: inside circle;
+empty-cells show,hide,inherit
+border-spacing, border-collapse collapse,separate
+cursor auto crosshair default pointer move text wait help url("cursor.gif");
